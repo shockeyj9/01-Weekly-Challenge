@@ -15,11 +15,11 @@ N/A
 
 This homepage contains a top navigation bar with links that direct users to different content on the page. User's cursor changes on hover indicating it can be selected as shown below:
 
-    ![top level navigation example](assets/images/top-nav-bar.png)
+![top level navigation example](./assets/images/top-nav-bar.png)
 
 Users are then directed to the content associated with that menu link:
 
-    ![content display](assets/images/redirect-ex.png)
+![content display](./assets/images/redirect-ex.png)
 
 ## Credits
 
