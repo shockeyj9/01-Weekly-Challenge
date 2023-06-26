@@ -6,6 +6,8 @@ This Horiseon webpage illustrates the services provided by Horiseon. It provides
 
 During the process of this assignment I learned how to consolidate CSS code to be more concise, as well as practicing the github workflow.
 
+This webpage has been deployed at: https://shockeyj9.github.io/horiseon-seo-01challenge/
+
 
 ## Installation
 
