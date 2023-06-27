@@ -71,7 +71,7 @@ p {
 }
 
 /* Left hand content internal block formatting */
-.content section {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,10 +107,11 @@ p {
     width: 20%;
     height: 100%;
     background-color: #2589bd;
+    
 }
 
 /* Consolidated margins/font color for benefits content */
-.benefits aside
+.benefits article
  {
     margin-bottom: 32px;
     color: #ffffff;
