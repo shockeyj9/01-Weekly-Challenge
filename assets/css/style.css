@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 /* Header at top of page formatting */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,18 +19,18 @@ body {
 
 /* ------------------------------------------ */
 /* Company logo display begin*/
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 /* Company logo display end*/
 /* ------------------------------------- */
 
 /* Navigation bar at top of page formatting */
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,7 +38,7 @@ body {
 }
 
 /* Orders the Nav bar option horizontally */
-.header li {
+header li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -71,7 +71,7 @@ p {
 }
 
 /* Left hand content internal block formatting */
-.content div {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,7 +110,7 @@ p {
 }
 
 /* Consolidated margins/font color for benefits content */
-.benefits div
+.benefits aside
  {
     margin-bottom: 32px;
     color: #ffffff;
@@ -131,13 +131,13 @@ p {
     max-width: 150px;
 }
 /* Sets footer padding and font*/
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 /* Sets footer header font size */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
